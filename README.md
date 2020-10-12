@@ -1,4 +1,4 @@
-# Nosco Hiring Challenge
+# Nosco Challenge
 
 There is an innovation competition across the land, and the various
 houses compete. All the ideas have been collected and scored, and now is the time
